@@ -10,6 +10,6 @@ GitHub Repository:
 ## CartPole
 # Other Work:
 ## Data Structures and Algorithms Practice:
-GitHub Repository: https://github.com/nhatsmrt/InterviewPractice
+GitHub Repository: [https://github.com/nhatsmrt/InterviewPractice]
 <br/>
 This is where I store my data structures and algorithms practice, usually in the form of solutions to LeetCode problems.
