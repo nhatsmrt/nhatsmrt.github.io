@@ -13,3 +13,7 @@ GitHub Repository:
 GitHub Repository: [InterviewPractice](https://github.com/nhatsmrt/InterviewPractice)
 <br/>
 This is where I store my data structures and algorithms practice, usually in the form of solutions to LeetCode problems.
+## Database Practice:
+GitHub Repository: [DatabasePractice](https://github.com/nhatsmrt/DatabasePractice)
+<br/>
+This is where I store my database queries practice.
