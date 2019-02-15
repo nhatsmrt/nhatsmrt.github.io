@@ -5,6 +5,7 @@ Here, you can find some of my most recent works and projects.
 # Projects:
 ## Denoising "Dirty" Documents
 This project is based on a Kaggle competition.
+<br>
 GitHub Repository:
 ## Detecting Insults in Social Commentary
 ## Neural Style Transfer
