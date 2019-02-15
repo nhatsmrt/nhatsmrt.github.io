@@ -4,6 +4,7 @@ I am Nhat Pham, an aspiring computer scientist and machine learning enthusiast. 
 Here, you can find some of my most recent works and projects.
 # Projects:
 ## Denoising "Dirty" Documents
+This project is based on a Kaggle competition.
 GitHub Repository:
 ## Detecting Insults in Social Commentary
 ## Neural Style Transfer
