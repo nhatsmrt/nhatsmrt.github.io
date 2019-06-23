@@ -1,5 +1,5 @@
 # Introduction
-I am Nhat Pham, an aspiring computer scientist and machine learning enthusiast. Currently, I am a student at Universtiy of Washington. My main interest is applying machine learning to real world applications. You can find my CV [hereCV](CV.pdf).
+I am Nhat Pham, an aspiring computer scientist and machine learning enthusiast. Currently, I am a student at Universtiy of Washington. My main interest is applying machine learning to real world applications. You can find my CV [here](CV.pdf).
 <br />
 Here, you can find a summary of some of my most recent works and projects.
 # Awards and Competitions
