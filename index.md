@@ -18,6 +18,8 @@ GitHub Repository: [DenoisingDirtyDocuments](https://github.com/nhatsmrt/Denoisi
 This project is based on a Kaggle competition. I implemented a Recurrent Neural Network using Keras to detect whether a comment is an insult.
 <br />
 GitHub Repository: [DetectingInsults](https://github.com/nhatsmrt/DetectingInsults)
+## PumpItUp Visualization
+Based on the data of a [DrivenData competition](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/), I have created a simple interactive map visualization of wells (functional and otherwise) in Tanzania, using the shiny and leaflet packages in R. You can see it [here](https://nphamcs.shinyapps.io/PumpItUp/).
 # Other Work:
 ## Data Structures and Algorithms Practice:
 GitHub Repository: [InterviewPractice](https://github.com/nhatsmrt/InterviewPractice)
