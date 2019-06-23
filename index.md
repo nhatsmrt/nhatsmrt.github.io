@@ -2,6 +2,11 @@
 I am Nhat Pham, an aspiring computer scientist and machine learning enthusiast. Currently, I am a student at Universtiy of Washington. My main interest is applying machine learning to real world applications.
 <br />
 Here, you can find some of my most recent works and projects.
+# Awards and Competitions
+## AIVIVN Sentiment Analysis Competition
+My team won a Vietnamese sentiment analysis competition, using an ensemble of 1D Convolutional Neural Network, Hierarchical Recurrent Neural Network, and Self-Attention Recurrent Neural Network.
+Our solution (in Vietnamese) can be found here: [Solution](https://github.com/nhatsmrt/AIVIVN_1/blob/master/1st%20place%20solution.md)
+GitHub Repository: [AIVIVN_1](https://github.com/nhatsmrt/AIVIVN_1)
 # Projects:
 ## Denoising "Dirty" Documents
 This project is based on a Kaggle competition.
