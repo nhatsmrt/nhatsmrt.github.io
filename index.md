@@ -27,7 +27,7 @@ Based on the data of a [DrivenData competition](https://www.drivendata.org/compe
 ## Personal Finance Web Application
 I got fed up with overspending my money, so I decided to create a simple web application with React and Dexie to keep track of my spending. I have deployed and host it on my github page.
 <br />
-Link to app: (https://nhatsmrt.github.io/personal-finance/)
+Link to app: [Personal Finance](https://nhatsmrt.github.io/personal-finance/)
 # Other Work:
 ## Data Structures and Algorithms Practice:
 GitHub Repository: [InterviewPractice](https://github.com/nhatsmrt/InterviewPractice)
