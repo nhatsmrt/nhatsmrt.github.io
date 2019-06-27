@@ -18,8 +18,16 @@ GitHub Repository: [DenoisingDirtyDocuments](https://github.com/nhatsmrt/Denoisi
 This project is based on a Kaggle competition. I implemented a Recurrent Neural Network using Keras to detect whether a comment is an insult.
 <br />
 GitHub Repository: [DetectingInsults](https://github.com/nhatsmrt/DetectingInsults)
+## Neural Network Toolbox
+Whenever I do a project, I always have to re-implement everything from scratch. At first, this is helpful because it requires me to really learn the concepts and procedures by heart. However, these chores quickly become irritating and annoying. So I start to create this repository, to store all the useful pieces of code.
+<br />
+GitHub Repository: [nn-toolbox](https://github.com/nhatsmrt/nn-toolbox)
 ## PumpItUp Visualization
 Based on the data of a [DrivenData competition](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/), I have created a simple interactive map visualization of wells (functional and otherwise) in Tanzania, using the shiny and leaflet packages in R. You can see it [here](https://nphamcs.shinyapps.io/PumpItUp/).
+## Personal Finance Web Application
+I got fed up with overspending my money, so I decided to create a simple web application with React and Dexie to keep track of my spending. I have deployed and host it on my github page.
+<br />
+Link to app: (https://nhatsmrt.github.io/personal-finance/)
 # Other Work:
 ## Data Structures and Algorithms Practice:
 GitHub Repository: [InterviewPractice](https://github.com/nhatsmrt/InterviewPractice)
