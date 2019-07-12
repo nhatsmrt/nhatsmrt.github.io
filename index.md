@@ -1,5 +1,5 @@
 # Introduction
-I am Nhat Pham, an aspiring computer scientist and machine learning enthusiast. Currently, I am a student at Universtiy of Washington. My main interest is applying machine learning to real world applications. You can find my CV [here](CV.pdf).
+I am Nhat Pham, an aspiring computer scientist and machine learning enthusiast. Currently, I am a student at Universtiy of Washington. My main interest is applying machine learning to real world applications. I am also interested in developing web applications. You can find my CV [here](CV.pdf).
 <br />
 Here, you can find a summary of some of my most recent works and projects.
 # Awards and Competitions
@@ -10,21 +10,27 @@ Our solution (in Vietnamese) can be found here: [Solution](https://github.com/nh
 <br />
 GitHub Repository: [AIVIVN_1](https://github.com/nhatsmrt/AIVIVN_1)
 # Projects:
-## Denoising "Dirty" Documents
-This project is based on a Kaggle competition. We apply a Convolutional Neural Network to "clean up" images of documents affected by noises (e.g coffee stains).
-<br />
-GitHub Repository: [DenoisingDirtyDocuments](https://github.com/nhatsmrt/DenoisingDirtyDocuments)
-## Detecting Insults in Social Commentary
-This project is based on a Kaggle competition. I implemented a Recurrent Neural Network using Keras to detect whether a comment is an insult.
-<br />
-GitHub Repository: [DetectingInsults](https://github.com/nhatsmrt/DetectingInsults)
-## Neural Network Toolbox
+## Machine Learning:
+### Neural Network Toolbox
 Whenever I do a project, I always have to re-implement everything from scratch. At first, this is helpful because it requires me to really learn the concepts and procedures by heart. However, these chores quickly become irritating and annoying. So I start to create this repository, to store all the useful pieces of code.
 <br />
 GitHub Repository: [nn-toolbox](https://github.com/nhatsmrt/nn-toolbox)
-## PumpItUp Visualization
+### Arbitrary Style Transfer
+I implement a neural network that can transfer the style of an arbitrary drawing to another arbitrary photo.
+<br />
+GitHub Repository: [torch-styletransfer](https://github.com/nhatsmrt/torch-styletransfer)
+### Denoising "Dirty" Documents
+This project is based on a Kaggle competition. We apply a Convolutional Neural Network to "clean up" images of documents affected by noises (e.g coffee stains).
+<br />
+GitHub Repository: [DenoisingDirtyDocuments](https://github.com/nhatsmrt/DenoisingDirtyDocuments)
+### Detecting Insults in Social Commentary
+This project is based on a Kaggle competition. I implemented a Recurrent Neural Network using Keras to detect whether a comment is an insult.
+<br />
+GitHub Repository: [DetectingInsults](https://github.com/nhatsmrt/DetectingInsults)
+## Web Programming and Visualization:
+### PumpItUp Visualization
 Based on the data of a [DrivenData competition](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/), I have created a simple interactive map visualization of wells (functional and otherwise) in Tanzania, using the shiny and leaflet packages in R. You can see it [here](https://nphamcs.shinyapps.io/PumpItUp/).
-## Personal Finance Web Application
+### Personal Finance Web Application
 I got fed up with overspending my money, so I decided to create a simple web application with React and Dexie to keep track of my spending. I plan to expand the application as my needs arise, but for now I have deployed and hosted it on my github page.
 <br />
 Link to app: [Personal Finance](https://nhatsmrt.github.io/personal-finance/)
