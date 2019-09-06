@@ -36,7 +36,7 @@ I got fed up with overspending my money, so I decided to create a simple web app
 Link to app: [Personal Finance](https://nhatsmrt.github.io/personal-finance/)
 # Other Work:
 ## Data Structures and Algorithms Practice:
-GitHub Repository: [InterviewPractice](https://github.com/nhatsmrt/InterviewPractice)
+GitHub Repository: [AlgorithmPractice](https://github.com/nhatsmrt/AlgorithmPractice)
 <br />
 This is where I store my data structures and algorithms practice, usually in the form of solutions to LeetCode problems.
 ## Database Practice:
