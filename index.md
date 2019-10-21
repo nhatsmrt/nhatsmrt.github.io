@@ -1,14 +1,14 @@
 # Introduction
-I am Nhat Pham, an aspiring computer scientist and machine learning enthusiast. Currently, I am a student at Universtiy of Washington. My main interest is applying machine learning to real world applications. I am also interested in developing web applications. You can find my CV [here](CV.pdf).
+I am Nhat Pham, an aspiring computer scientist and machine learning enthusiast. Currently, I am a student at Universtiy of Washington. My main interest is applying machine learning to real world applications. I am also interested in developing web applications. You can find my CV [here](CV.pdf), and my (unofficial) transcript [here](UWUnofficialTranscript.pdf).
 <br />
 Here, you can find a summary of some of my most recent works and projects.
 # Awards and Competitions
 ## AIVIVN Sentiment Analysis Competition
 My team won a Vietnamese sentiment analysis competition, using an ensemble of 1D Convolutional Neural Network, Hierarchical Recurrent Neural Network, and Self-Attention Recurrent Neural Network.
 <br />
-Our solution (in Vietnamese) can be found here: [Solution](https://github.com/nhatsmrt/AIVIVN_1/blob/master/1st%20place%20solution.md)
+Our solution (in Vietnamese) can be found here: [Solution](https://github.com/petrpan26/Aivivn_1/blob/master/1st%20place%20solution.md)
 <br />
-GitHub Repository: [AIVIVN_1](https://github.com/nhatsmrt/AIVIVN_1)
+GitHub Repository: [AIVIVN_1](https://github.com/petrpan26/Aivivn_1)
 # Projects:
 ## Machine Learning:
 ### Neural Network Toolbox
