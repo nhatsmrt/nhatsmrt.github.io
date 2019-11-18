@@ -30,10 +30,10 @@ GitHub Repository: [DetectingInsults](https://github.com/nhatsmrt/DetectingInsul
 ## Web Programming and Visualization:
 ### PumpItUp Visualization
 Based on the data of a [DrivenData competition](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/), I have created a simple interactive map visualization of wells (functional and otherwise) in Tanzania, using the shiny and leaflet packages in R. You can see it [here](https://nphamcs.shinyapps.io/PumpItUp/).
-### Personal Finance Web Application
+<!-- ### Personal Finance Web Application
 I got fed up with overspending my money, so I decided to create a simple web application with React and Dexie to keep track of my spending. I plan to expand the application as my needs arise, but for now I have deployed and hosted it on my github page.
 <br />
-Link to app: [Personal Finance](https://nhatsmrt.github.io/personal-finance/)
+Link to app: [Personal Finance](https://nhatsmrt.github.io/personal-finance/) -->
 # Other Work:
 ## Data Structures and Algorithms Practice:
 GitHub Repository: [AlgorithmPractice](https://github.com/nhatsmrt/AlgorithmPractice)
