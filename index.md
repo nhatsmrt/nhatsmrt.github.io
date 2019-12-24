@@ -9,6 +9,12 @@ My team won a Vietnamese sentiment analysis competition, using an ensemble of 1D
 Our solution (in Vietnamese) can be found here: [Solution](https://github.com/petrpan26/Aivivn_1/blob/master/1st%20place%20solution.md)
 <br />
 GitHub Repository: [AIVIVN_1](https://github.com/petrpan26/Aivivn_1)
+## Emotion Recognition Competition
+My team placed 8th in an emotion recognition based on audio, using a convolutional neural network on top of MFCC representation.
+<br />
+[Contest Link](https://erc2019.com/)
+<br />
+GitHub Repository: [erc](https://github.com/nhatsmrt/erc)
 # Projects:
 ## Machine Learning:
 ### Neural Network Toolbox
