@@ -10,7 +10,7 @@ Our solution (in Vietnamese) can be found here: [Solution](https://github.com/pe
 <br />
 GitHub Repository: [AIVIVN_1](https://github.com/petrpan26/Aivivn_1)
 ## Emotion Recognition Competition
-My team placed 8th in an emotion recognition based on audio, using a convolutional neural network on top of MFCC representation.
+My team placed 8th in the public round of an emotion recognition based on audio, using a convolutional neural network on top of MFCC representation.
 <br />
 [Contest Link](https://erc2019.com/)
 <br />
