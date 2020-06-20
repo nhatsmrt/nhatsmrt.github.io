@@ -1,7 +1,9 @@
 # Introduction
-I am Nhat Pham, an aspiring computer scientist and machine learning enthusiast. Currently, I am a Computer Science and Data Science student at the University of Maryland, College Park, and a Software Engineering Intern at Verta.AI. My main interest is building functional, scalable, data-driven machine learning applications. You can find my CV [here](CV.pdf), and my (unofficial) transcript [here](UWUnofficialTranscript.pdf).
+I am Nhat Pham, an aspiring computer scientist and machine learning enthusiast. Currently, I am a Computer Science and Data Science student at the University of Maryland, College Park, and a Software Engineering Intern at Verta.AI.
 <br />
-Here, you can find a summary of some of my most recent works and projects.
+My main interest is building functional, scalable, data-driven machine learning applications. You can find my CV [here](CV.pdf), and my (unofficial) transcript [here](UWUnofficialTranscript.pdf).
+<br />
+Below is a summary of some of my most recent works and projects.
 # Awards and Competitions
 ## AIVIVN Sentiment Analysis Competition
 My team won a Vietnamese sentiment analysis competition, using an ensemble of 1D Convolutional Neural Network, Hierarchical Recurrent Neural Network, and Self-Attention Recurrent Neural Network.
