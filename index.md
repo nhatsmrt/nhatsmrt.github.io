@@ -1,5 +1,5 @@
 # Introduction
-I am Nhat Pham, an aspiring computer scientist and machine learning enthusiast. Currently, I am a student at the University of Maryland. My main interest is applying machine learning to real world applications. I am also interested in developing web applications. You can find my CV [here](CV.pdf), and my (unofficial) transcript [here](UWUnofficialTranscript.pdf).
+I am Nhat Pham, an aspiring computer scientist and machine learning enthusiast. Currently, I am a Computer Science and Data Science student at the University of Maryland, College Park, and a Software Engineering Intern at Verta.AI. My main interest is building functional, scalable, data-driven machine learning applications. You can find my CV [here](CV.pdf), and my (unofficial) transcript [here](UWUnofficialTranscript.pdf).
 <br />
 Here, you can find a summary of some of my most recent works and projects.
 # Awards and Competitions
@@ -15,7 +15,10 @@ My team placed 8th in the public round of an emotion recognition based on audio,
 [Contest Link](https://erc2019.com/)
 <br />
 GitHub Repository: [erc](https://github.com/nhatsmrt/erc)
-# Projects:
+# Work Experience
+## Software Engineering Intern at Verta.AI
+I am responsible for buidling a building a clean, functional, type safe, and declarative Scala client for Verta.AI’s ModelDB V2, which allows for reproducible machine learning in a Git-like fashion.
+# Personal Projects:
 ## Machine Learning:
 ### Neural Network Toolbox
 Whenever I do a project, I always have to re-implement everything from scratch. At first, this is helpful because it requires me to really learn the concepts and procedures by heart. However, these chores quickly become irritating and annoying. So I start to create this repository, to store all the useful pieces of code.
