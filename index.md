@@ -19,7 +19,9 @@ My team placed 8th in the public round of an emotion recognition based on audio,
 GitHub Repository: [erc](https://github.com/nhatsmrt/erc)
 # Work Experience
 ## Software Engineering Intern at Verta.AI
-I am responsible for building a clean, functional, type safe, and declarative Scala client for Verta.AI’s ModelDB V2, which allows for reproducible machine learning in a Git-like fashion. Manage your models, hyperparameters, metrics, and datasets, the same way you manage your code! Integrates seamlessly with AWS S3 for dataset storage and versioning, as well as Spark MLLib for model development.
+I am responsible for building a clean, functional, type safe, and declarative Scala client for Verta.AI’s ModelDB V2, which allows for reproducible machine learning in a Git-like fashion. Manage your models, hyperparameters, metrics, and datasets, the same way you manage your code!
+<br />
+Integrates seamlessly with AWS S3 for dataset storage and versioning, as well as Spark MLLib for model development.
 # Personal Projects:
 ## Machine Learning:
 ### Neural Network Toolbox
