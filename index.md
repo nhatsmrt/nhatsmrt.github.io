@@ -27,7 +27,7 @@ GitHub Repository: [erc](https://github.com/nhatsmrt/erc)
 # Personal Projects:
 ## Machine Learning:
 ### Neural Network Toolbox
-Whenever I do a project, I always have to re-implement everything from scratch. At first, this is helpful because it requires me to really learn the concepts and procedures by heart. However, these chores quickly become irritating and annoying. So I start to create this repository, to store all the useful pieces of code.
+Whenever I did a deep learning project, I always had to re-implement everything from scratch, from the neural network components to the training procedure. At first, this was helpful because it required me to really understand deep learning concepts and procedures. However, these chores quickly became annoyingly repetitive. So I developed this small framework, which allows me to focus on the high-level design and prototype of models and ideas, without having to re-invent the building blocks every time.
 
 GitHub Repository: [nn-toolbox](https://github.com/nhatsmrt/nn-toolbox)
 ### Arbitrary Style Transfer
