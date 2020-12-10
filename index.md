@@ -28,19 +28,19 @@ At Verta, I was fortunate enough to have worked on many parts of the company's t
 ## Machine Learning:
 ### Neural Network Toolbox
 Whenever I do a project, I always have to re-implement everything from scratch. At first, this is helpful because it requires me to really learn the concepts and procedures by heart. However, these chores quickly become irritating and annoying. So I start to create this repository, to store all the useful pieces of code.
-<br />
+
 GitHub Repository: [nn-toolbox](https://github.com/nhatsmrt/nn-toolbox)
 ### Arbitrary Style Transfer
 I implement a neural network that can transfer the style of an arbitrary drawing to another arbitrary photo.
-<br />
+
 GitHub Repository: [torch-styletransfer](https://github.com/nhatsmrt/torch-styletransfer)
 ### Denoising "Dirty" Documents
 This project is based on a Kaggle competition. We apply a Convolutional Neural Network to "clean up" images of documents affected by noises (e.g coffee stains).
-<br />
+
 GitHub Repository: [DenoisingDirtyDocuments](https://github.com/nhatsmrt/DenoisingDirtyDocuments)
 ### Detecting Insults in Social Commentary
 This project is based on a Kaggle competition. I implemented a Recurrent Neural Network using Keras to detect whether a comment is an insult.
-<br />
+
 GitHub Repository: [DetectingInsults](https://github.com/nhatsmrt/DetectingInsults)
 ## Web Programming and Visualization:
 ### PumpItUp Visualization
@@ -52,17 +52,17 @@ Link to app: [Personal Finance](https://nhatsmrt.github.io/personal-finance/) --
 # Other Work:
 ## fp-course
 GitHub Repository: [fp-course](https://github.com/nhatsmrt/fp-course)
-<br />
+
 My solution to the exercises of fp-course, an introductory course on functional programming concepts in Haskell.
 ## lets-lens
 GitHub Repository: [lets-lens](https://github.com/nhatsmrt/lets-lens)
-<br />
+
 My solution to the exercises of lets-lens, a course on optics (functional data accessors and modifiers) in Haskell.
 ## Data Structures and Algorithms Practice:
 GitHub Repository: [AlgorithmPractice](https://github.com/nhatsmrt/AlgorithmPractice)
-<br />
+
 This is where I store my data structures and algorithms practice, most of which are solutions to LeetCode problems. Main languages are Java, Python, and C++.
 ## Database Practice:
 GitHub Repository: [DatabasePractice](https://github.com/nhatsmrt/DatabasePractice)
-<br />
+
 This is where I store my database SQL queries practice.
