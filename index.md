@@ -4,6 +4,7 @@ I am Nhat Pham, an aspiring computer scientist, a machine learning enthusiast, a
 My main interest is building functional, scalable, data-driven machine learning applications. You can find my CV [here](CV.pdf), my UW transcript [here](UWUnofficialTranscript.pdf), and my UMD transcript [here](Testudo%20-%20Unofficial%20Transcript.pdf).
 
 Below is a summary of some of my most recent works and projects.
+
 # Awards and Competitions
 ## AIVIVN Sentiment Analysis Competition
 My team won a Vietnamese sentiment analysis competition, using an ensemble of 1D Convolutional Neural Network, Hierarchical Recurrent Neural Network, and Self-Attention Recurrent Neural Network.
@@ -15,6 +16,7 @@ GitHub Repository: [AIVIVN_1](https://github.com/petrpan26/Aivivn_1)
 My team placed 8th in the public round of an emotion recognition based on audio, using a convolutional neural network on top of MFCC representation.
 
 GitHub Repository: [erc](https://github.com/nhatsmrt/erc)
+
 # Work Experience
 ## Software Engineering Intern at Verta (June-November 2020)
 At Verta, I was fortunate to have worked on many parts of the company's tech stack:
