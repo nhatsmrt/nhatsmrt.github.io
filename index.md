@@ -48,6 +48,14 @@ I got fed up with overspending my money, so I decided to create a simple web app
 <br />
 Link to app: [Personal Finance](https://nhatsmrt.github.io/personal-finance/) -->
 # Other Work:
+## fp-course
+GitHub Repository: [fp-course](https://github.com/nhatsmrt/fp-course)
+<br />
+My solution to exercises of fp-course, an introductory course on functional programming concepts in Haskell.
+## lets-lens
+GitHub Repository: [lets-lens](https://github.com/nhatsmrt/lets-lens)
+<br />
+My solution to exercises of lets-lens, a course on optics (functional data accessors and modifiers) in Haskell.
 ## Data Structures and Algorithms Practice:
 GitHub Repository: [AlgorithmPractice](https://github.com/nhatsmrt/AlgorithmPractice)
 <br />
