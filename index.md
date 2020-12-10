@@ -5,6 +5,13 @@ My main interest is building functional, scalable, data-driven machine learning 
 
 Below is a summary of some of my most recent works and projects.
 
+# Work Experience
+## Software Engineering Intern at Verta (June-November 2020)
+At Verta, I was fortunate enough to have worked on many parts of the company's tech stack:
+* I implemented the dataset versioning interface for Verta's Scala client, inspired by GitHub's design, with immutable datatypes (Repository, Commit) and operations (update, revert, merge).
+* I worked on the new machine learning model registry and deployment interface for Verta's Python client, wrote a command-line tool that helps user to automate their deployment workflow, and maintained the deployment backend, written in Golang and MySQL. I also wrote end-to-end deployment tests to prevent regression.
+* I set up the Jenkins test pipeline for the Scala client, and configured a Kubernetes pods for the pipeline to run on.
+
 # Awards and Competitions
 ## AIVIVN Sentiment Analysis Competition
 My team won a Vietnamese sentiment analysis competition, using an ensemble of 1D Convolutional Neural Network, Hierarchical Recurrent Neural Network, and Self-Attention Recurrent Neural Network.
@@ -16,13 +23,6 @@ GitHub Repository: [AIVIVN_1](https://github.com/petrpan26/Aivivn_1)
 My team placed 8th in the public round of an emotion recognition based on audio, using a convolutional neural network on top of MFCC representation.
 
 GitHub Repository: [erc](https://github.com/nhatsmrt/erc)
-
-# Work Experience
-## Software Engineering Intern at Verta (June-November 2020)
-At Verta, I was fortunate enough to have worked on many parts of the company's tech stack:
-* I implemented the dataset versioning interface for Verta's Scala client, inspired by GitHub's design, with immutable datatypes (Repository, Commit) and operations (update, revert, merge).
-* I worked on the new machine learning model registry and deployment interface for Verta's Python client, wrote a command-line tool that helps user to automate their deployment workflow, and maintained the deployment backend, written in Golang and MySQL. I also wrote end-to-end deployment tests to prevent regression.
-* I set up the Jenkins test pipeline for the Scala client, and configured a Kubernetes pods for the pipeline to run on.
 
 # Personal Projects:
 ## Machine Learning:
