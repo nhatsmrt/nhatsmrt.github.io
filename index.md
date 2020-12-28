@@ -1,7 +1,7 @@
 # Introduction
 I am Nhat Pham, an aspiring computer scientist, a machine learning enthusiast, and a functional programmer. Currently, I am a Computer Science and Data Science student at the University of Maryland, College Park, and a Software Engineering Intern at Verta.AI. Previously, I was a Data Science and Statistics student at the University of Washington, Seattle.
 
-My main interest is building functional, scalable, data-driven machine learning applications. You can find my CV [here](CV.pdf), my UW transcript [here](UWUnofficialTranscript.pdf), and my UMD transcript [here](Testudo%20-%20Unofficial%20Transcript.pdf).
+My main interest is building functional, scalable, data-driven machine learning applications. You can find my CV [here](CV_SWE.pdf), my UW transcript [here](UWUnofficialTranscript.pdf), and my UMD transcript [here](Testudo%20-%20Unofficial%20Transcript.pdf).
 
 Below is a summary of some of my most recent works and projects.
 
