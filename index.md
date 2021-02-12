@@ -1,7 +1,7 @@
 # Introduction
-I am Nhat Pham, an aspiring computer scientist, a machine learning enthusiast, and a functional programmer. Currently, I am a Computer Science and Data Science student at the University of Maryland, College Park, and a Software Engineering Intern at Verta.AI. Previously, I was a Data Science and Statistics student at the University of Washington, Seattle.
+I am Nhat Pham, an aspiring computer scientist, a machine learning enthusiast, and a functional programmer. Currently, I am a Computer Science and Data Science student at the University of Maryland, College Park. Previously, I was a Data Science and Statistics student at the University of Washington, Seattle, and a Software Engineering Intern at Verta.
 
-My main interest is building functional, scalable, data-driven machine learning applications. You can find my CV [here](CV_SWE.pdf), my UW transcript [here](UWUnofficialTranscript.pdf), and my UMD transcript [here](Testudo%20-%20Unofficial%20Transcript.pdf).
+My main interest is building scalable distributed systems, as well as data-driven machine learning applications. You can find my CV [here](CV_SWE.pdf), my UW transcript [here](UWUnofficialTranscript.pdf), and my UMD transcript [here](Testudo%20-%20Unofficial%20Transcript.pdf).
 
 Below is a summary of some of my most recent works and projects.
 
@@ -58,6 +58,10 @@ My solution to the exercises of fp-course, an introductory course on functional 
 GitHub Repository: [lets-lens](https://github.com/nhatsmrt/lets-lens)
 
 My solution to the exercises of lets-lens, a course on optics (functional data accessors and modifiers) in Haskell.
+## zippers-course
+GitHub Repository: [zippers-course](https://github.com/nhatsmrt/zippers-course)
+
+My solution to the exercises of zippers-course, a course on zippers (functional data structure traversal and modification) in Haskell.
 ## Data Structures and Algorithms Practice:
 GitHub Repository: [AlgorithmPractice](https://github.com/nhatsmrt/AlgorithmPractice)
 
